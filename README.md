@@ -1,1 +1,1 @@
-Author/idea-sprint is used as a branch for developers to work on ideas per spring in my understanding. Meanwhile editor/review is used for finalizing the changes from the sprint before merging them.
+Author/idea-sprint is used as a branch for developers to work on ideas per spring in my understanding. Meanwhile editor/review is used for making current the changes from the sprint before merging them.
