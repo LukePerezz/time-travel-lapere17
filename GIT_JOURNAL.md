@@ -1,0 +1,1 @@
+After using git and github, I've learned a few things. I understand better now how to use branches, pull requests, and merge conflicts. The most useful command for me today was probably git status, it tells me what differs between the files I have in the github repo and the files on my local desktop.
